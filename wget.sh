@@ -1,0 +1,1 @@
+xargs -n 1 -P 39 wget < url.txt
